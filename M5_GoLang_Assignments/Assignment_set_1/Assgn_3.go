@@ -99,7 +99,7 @@ func SortInventoryByStock() {
 	})
 }
 
-func main() {
+func main_3() {
 	// Adding products to inventory
 	err := AddProduct(1, "Product1", "10.50", 100)
 	if err != nil {
